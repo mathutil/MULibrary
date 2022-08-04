@@ -1,4 +1,4 @@
 # MU? math utilities
 We have renamed the main library from MUGraphics to MULibrary recently.
-Currently we are moving the library and expanding its contents.
-The documentation and the sample codes and apps will be available soon again, including new samples illustrating the use of the new functions, plugins and components.
+Unfortunately, we had to remove the original repository of the original ERP appplication, from which this library comes, due to code ownership conflicts.
+However, we have created this repository to keep supporting people using MU library for some time.
